@@ -2,7 +2,7 @@
 
 <img alt="Banner" width="950" hight="300" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
-<h3 align="center">🏆A passionate frontend developer from Paris📍🇫🇷</h3>
+<h3 align="center">🏆A passionate FullStack developer from Paris📍🇫🇷</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=6c09b952469u25cd2m1sltgzdq1xnnri2umgs9h8b3qh0d7k&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
