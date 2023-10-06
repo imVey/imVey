@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **marwanbella91@hotmail.fr**
 
-- ⚡ Fun fact **i draw very well 😅**
+- ⚡ Fun fact **i draw very well since my 13 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
