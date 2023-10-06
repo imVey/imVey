@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏽, I'm Marwan</h1>
 
-<img alt="Banner" src="https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7ef9b77af605ab7e3d3bc8a458/68747470733a2f2f6c6f6769636d6f6a6f2e636f6d2f6173736574732f646973742f6e65775f70616765732f696d616765732f6a732d6769662e676966">
+<img alt="Banner" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
 
 <h3 align="center">🏆A passionate frontend developer from Paris📍🇫🇷</h3>
 
