@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **marwanbella91@hotmail.fr**
 
-- 📄 Know about my experiences [I work a lot alone on my side project and on a few projects of my friends.]
+- 📄 Know about my experiences I work a lot alone on my side project and on a few projects of my friends.
 
 - ⚡ Fun fact **i draw very well since my 13😅 and i'm immortal on Valorant👀**
 
