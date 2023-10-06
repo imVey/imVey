@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋🏽, I'm Marwan</h1>
 
-<img alt="Banner" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
+<img alt="Banner" width="950" hight="300" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <h3 align="center">🏆A passionate frontend developer from Paris📍🇫🇷</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/zhYSVCirREeIZtONCI/200.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=6c09b952469u25cd2m1sltgzdq1xnnri2umgs9h8b3qh0d7k&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
-<p align="left"> <img src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imvey&label=Profile%20views&color=0e75b6&style=flat" alt="imvey" /> </p>
 
 - 🔭 I’m currently working on **my 3D Portfolio and my first mobile app**
 
