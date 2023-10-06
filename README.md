@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/zhYSVCirREeIZtONCI/200.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imvey&label=Profile%20views&color=0e75b6&style=flat" alt="imvey" /> </p>
+<p align="left"> <img src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" /> </p>
 
 - 🔭 I’m currently working on **my 3D Portfolio and my first mobile app**
 
