@@ -8,15 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvey&label=Profile%20views&color=0e75b6&style=flat" alt="imvey" /> </p>
 
-- 🔭 I’m currently working on **my 3D Portfolio and my first mobile app**
+- 🔭 I’m currently working on **my Portfolio and my first mobile app**
 
-- 🌱 I’m currently learning **React.js, Three.js and React Three Fiber.**
+- 🌱 I’m currently learning **NextJS and Three.js.**
 
-- 👯 I’m looking to collaborate on **React.js**
+- 👯 I’m looking to collaborate on **React.js or NextJS**
 
 - 💬 Ask me about **my project or something else!**
 
-- 📫 How to reach me **marwanbella91@hotmail.fr**
+- 📫 How to reach me **mbella.dev@gmail.com**
 
 - 📄 Know about my experiences I work a lot alone on my side project and on a few projects of my friends.
 
